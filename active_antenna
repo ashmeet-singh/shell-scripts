@@ -1,0 +1,4 @@
+
+export AA_DIR_WEBSITE=/home/xenon/s/active-antenna-website
+export AA_DIR_STORAGE=/mnt/mytmpfs
+
